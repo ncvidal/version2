@@ -72,7 +72,7 @@ main{
 .mensaje{
     height: 330px;
     background:#41475b;
-    background-image: url("./Muñeco3.png");
+    background-image: url("./imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
 
