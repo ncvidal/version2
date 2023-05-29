@@ -72,7 +72,7 @@ main{
 .mensaje{
     
     
-    /*
+    
 
     height: 330px;
     background:#41475b;
@@ -80,21 +80,27 @@ main{
     background-repeat: no-repeat;
     background-position: center;
 
-
-    border: none;
-    border-radius: 24px;
-    color: #0A3871;
-    margin-left: 98px;
-    margin-top: 20px;
-    padding-left: 20px;
-    position: fixed;*/
-
-
-    
     border-radius: 20px;
     color: #26b8ba;
     margin-top: 90px;
     box-shadow: 0px 0px 20px 0px #26b8ba;
+
+   
+    position: fixed;
+
+
+    /*
+
+     border-radius: 24px;
+    color: #0A3871;
+    margin-left: 98px;
+    margin-top: 90px;
+    padding-left: 20px;
+
+    border-radius: 20px;
+    color: #26b8ba;
+    margin-top: 90px;
+    box-shadow: 0px 0px 20px 0px #26b8ba;*/
 }
 
 .mensaje{
@@ -165,7 +171,6 @@ main{
 
 #boton-copiar{
     font-size: 25px;
-
     color:#26b8ba;
     background-color: #41475b;
     border: 1px solid #26b8ba;
@@ -175,7 +180,7 @@ main{
     cursor: pointer;
     height: 67px; 
     margin-left: 60px;
-    margin-top: 45px;
+    margin-top: 485px;
     position: absolute;
     width: 260px;
 
