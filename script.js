@@ -17,7 +17,7 @@ function btnEncriptar(){
     mensaje.value = textoEncriptado
     textArea.value = ""; // para que el area que recibe el texto se limpie//
     mensaje.style.backgroundImage = "none";//para quitar la imagen cuando se encripte//
-    var imagen = document.getElementById('imagen');
+    var imagen = document.getElementById('munieco');
     imagen.style.display = "none";
 }
 

@@ -71,12 +71,16 @@ main{
 
 .mensaje{
     
+    
+    /*
+
     height: 330px;
     background:#41475b;
     background-image: url("./Muñeco3.png");
     background-repeat: no-repeat;
     background-position: center;
-    /*
+
+
     border: none;
     border-radius: 24px;
     color: #0A3871;
@@ -97,13 +101,13 @@ main{
     outline: none;
 }
 
-/*.munieco{
+#munieco{
     position: absolute;
-    margin-left: -330px;
+    margin-left: 30px;
     width: 300px;
     margin-top: 105px;
     
-}*/
+}
 
 .botones{
     display: flex;
